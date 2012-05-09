@@ -3,3 +3,4 @@ libsundown.so*
 sundown
 smartypants
 *.exe
+*.vcxproj.user
