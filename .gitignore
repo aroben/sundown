@@ -4,3 +4,5 @@ sundown
 smartypants
 *.exe
 *.vcxproj.user
+/bin
+/obj
